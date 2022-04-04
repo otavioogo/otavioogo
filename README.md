@@ -1,6 +1,6 @@
 ### Olá! 
 
-- Hoje trabalho com front-end
+- Hoje trabalho com Back-end 
 - Estudando TypeScript
 
 <div align="center">

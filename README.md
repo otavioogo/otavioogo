@@ -1,6 +1,5 @@
 ### Olá! 
 
-- Hoje trabalho com Salesforce
 
 
 <div align="center">
